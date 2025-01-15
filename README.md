@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on system development
 - 📫 How to reach me contact me here
 - 😄 Pronouns: She
-- ⚡ Fun fact: I never stop leaning
+- ⚡ Fun fact: I never stop learning
 
 <!---
 Eben2002/Eben2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
