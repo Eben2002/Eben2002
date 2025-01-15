@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eben2002
 - 👀 I’m interested in vb
-- 🌱 I’m currently learning vissualbasic
+- 🌱 I’m currently learning visual basic
 - 💞️ I’m looking to collaborate on system development
 - 📫 How to reach me contact me here
 - 😄 Pronouns: She
